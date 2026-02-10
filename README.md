@@ -1,7 +1,7 @@
 Hi there! I'm Arpita Nanda🙋‍♂!!<br/>
 
 
-🌱 Currently exploring full-stack development, data structures, and algorithms to strengthen my software development skills<br/>
+🌱 Currently exploring data science, data structures, and algorithms to strengthen my software development skills<br/>
 👨‍💻 Actively working on projects in web development, machine learning, and open-source contributions.<br/>
 💡 Participating in coding challenges and hackathons to improve my problem-solving skills.<br/>
 💻 Skills & Interests<br/>
